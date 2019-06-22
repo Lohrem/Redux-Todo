@@ -1,0 +1,7 @@
+.notComplete {
+  color: red
+}
+.complete {
+  color: green;
+  text-decoration: line-through
+}
